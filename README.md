@@ -31,15 +31,12 @@ The Fitness Plan Generator is an advanced tool designed to create customized wor
   - langchain/text_splitter (RecursiveCharacterTextSplitter for splitting text into chunks)
   - langchain/vectorstores/memory (MemoryVectorStore for in-memory vector storage)
   - @langchain/google-genai (GoogleGenerativeAIEmbeddings for generating embeddings using Gemini)
-- *Other Tools*:
-  - Bootstrap (for styling)
-  - Nodemailer (for sending fitness plans via email)
-
+  
 ## Installation
 
 1. Clone the repository:
    bash
-   git clone https://github.com/Sai-vishnu16/AI_Fitness_Plan_Generator_using_RAG_LLM
+   git clone https://github.com/sairamanuja/Fitness-Plan-Generator.git
    cd Fitness-Plan-Generator
 
 2. **Install dependencies**:
@@ -48,7 +45,7 @@ The Fitness Plan Generator is an advanced tool designed to create customized wor
 
 3. *Start the app*:
     bash
-   npm start
+   npm run dev
 ### 3. Set up environment variables:
 Create a `.env` file in the root directory and add the following variables:
    .env
