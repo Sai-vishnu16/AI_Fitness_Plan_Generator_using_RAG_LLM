@@ -39,7 +39,7 @@ The Fitness Plan Generator is an advanced tool designed to create customized wor
 
 1. Clone the repository:
    bash
-   git clone https://github.com/sairamanuja/Fitness-Plan-Generator.git
+   git clone https://github.com/Sai-vishnu16/AI_Fitness_Plan_Generator_using_RAG_LLM
    cd Fitness-Plan-Generator
 
 2. **Install dependencies**:
