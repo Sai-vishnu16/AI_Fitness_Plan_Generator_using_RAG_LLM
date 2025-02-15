@@ -1,0 +1,8 @@
+{
+  "name": "fitness",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cd backend && npm run dev",
+    "start": "cd backend && npm start"
+  }
+}
